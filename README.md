@@ -1,1 +1,2 @@
 # BaltGit
+Bir conflict çıkacak.
