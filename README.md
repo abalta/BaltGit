@@ -1,1 +1,2 @@
 # BaltGit
+Merhaba Git.
