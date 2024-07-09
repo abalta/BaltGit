@@ -1,23 +1,23 @@
 [
   {
     "name": "Yooka-Laylee and the Impossible Lair",
-    "date": "Dec 31 2019 - Jan 1 2020"
+    "date": "Dec 31 2019 - Jan 1 2020, Feb 3-10 2022"
   },
   {
     "name": "Hello Neighbor",
     "date": "Dec 30-31 2019"
   },
   {
-    "name": "Talos Principle",
+    "name": "The Talos Principle",
     "date": "Dec 29-30 2019"
   },
   {
     "name": "Shadow Tactics: Blades of the Shogun",
-    "date": "Dec 28-29 2019"
+    "date": "Dec 28-29 2019, Nov 10-17 2022"
   },
   {
     "name": "Hyper Light Drifter",
-    "date": "Dec 27-28 2019"
+    "date": "Aug 15-22 2019, Dec 27-28 2019"
   },
   {
     "name": "FTL: Faster Than Light",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Celeste",
-    "date": "Dec 24-25 2019"
+    "date": "Aug 29 - Sep 5 2019, Dec 24-25 2019"
   },
   {
     "name": "Ape Out",
@@ -49,11 +49,11 @@
   },
   {
     "name": "Into The Breach",
-    "date": "Dec 19-20 2019"
+    "date": "Dec 19-20 2019, Sep 3-10 2020"
   },
   {
     "name": "The Escapists",
-    "date": "Dec 12-19 2019"
+    "date": "Dec 12-19 2019, Sep 23-30 2021"
   },
   {
     "name": "The Wolf Among Us",
@@ -64,11 +64,11 @@
     "date": "Dec 6-12 2019"
   },
   {
-    "name": "Rayman Legends",
+    "name": "Rayman® Legends",
     "date": "Nov 29 - Dec 6 2019"
   },
   {
-    "name": "Bad North",
+    "name": "Bad North: Jotunn Edition",
     "date": "Nov 21-29 2019"
   },
   {
@@ -144,20 +144,12 @@
     "date": "Sep 5-12 2019"
   },
   {
-    "name": "Celeste",
-    "date": "Aug 29 - Sep 5 2019"
-  },
-  {
     "name": "Inside",
     "date": "Aug 29 - Sep 5 2019"
   },
   {
     "name": "Fez",
     "date": "Aug 22-29 2019"
-  },
-  {
-    "name": "Hyper Light Drifter",
-    "date": "Aug 15-22 2019"
   },
   {
     "name": "Mutant Year Zero: Road To Eden",
@@ -418,10 +410,6 @@
   {
     "name": "Where The Water Tastes Like Wine",
     "date": "Sep 10-17 2020"
-  },
-  {
-    "name": "Into The Breach",
-    "date": "Sep 3-10 2020"
   },
   {
     "name": "Shadowrun Collection",
@@ -800,10 +788,6 @@
     "date": "Sep 30 - Oct 7 2021"
   },
   {
-    "name": "The Escapists",
-    "date": "Sep 23-30 2021"
-  },
-  {
     "name": "Tharsis",
     "date": "Sep 16-23 2021"
   },
@@ -1080,10 +1064,6 @@
     "date": "Nov 17-24 2022"
   },
   {
-    "name": "Shadow Tactics: Blades of the Shogun",
-    "date": "Nov 10-17 2022"
-  },
-  {
     "name": "Rising Storm 2: Vietnam",
     "date": "Nov 3-10 2022"
   },
@@ -1242,10 +1222,6 @@
   {
     "name": "Windbound",
     "date": "Feb 10-17 2022"
-  },
-  {
-    "name": "Yooka-Laylee and the Impossible Lair",
-    "date": "Feb 3-10 2022"
   },
   {
     "name": "DAEMON X MACHINA",
